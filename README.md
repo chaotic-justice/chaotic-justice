@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Chao Lai, a **Full Stack Web Developer** (specializing in **React Applications**). I am also Pursuing my Masters degree in **Computing Systems** and will graduate in mid-2024.
+🎓 I am Chao Lai, a **Full Stack Web Developer** (specializing in **React Applications**) with experience in fintech & edtech. I am also Pursuing my Masters degree in **Computing Systems** and will graduate in mid-2024. I believe Rust & Go are the two big brothers of the future.
 
 🎸 Outside of technology world, I enjoy [playing archery](https://www.jerseycityarchery.com/). My hobbies range from **caligraphy**, **skiing**, to **reading manga**.
 
