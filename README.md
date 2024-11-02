@@ -1,70 +1,53 @@
-# Bonjour! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+<div style="overflow:hidden" class="chaotic-justice">
+
+<a href="https://github.com/chaotic-justice/chaotic-justice" style="max-width:50%;" >
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=chaotic-justice&count_private=true&theme=radical" />
+</a>
+
+</div>
+
+<br/>
+
+# Hi there 👋, I'm a representative of chaotic justice
 
 ## 🚀 About Me
 
-🎓 I am Chao Lai, a **Full Stack Web Developer** with experience in finTech, edTech, and insuranceTech. I am also Pursuing my Masters degree in **Computing Systems** and will graduate in mid-2024. I believe Rust & Go are the two big brothers of the future.
+**Full-Stack Engineer, Open-Source Next.js Artist & NFT sarcasm artist.**
 
-🎸 Outside of technology world, I enjoy [playing archery](https://www.jerseycityarchery.com/). My hobbies range from **caligraphy**, **skiing**, to **reading manga**.
+**I feed two cats.**
 
-📚 I also love reading books on **magical realism** & **vampires**.
+## 🛠 Skills
 
-✈️ I love **traveling** too. I have been on solo trips to **Dali** in _2017_ and to **Puerto Rico** in _2022_ with my girlfriend.
+- **Front-End:** `React`, `Next.js`, `Tailwind.css`.
+- **Back-End:** `Node.js`, `Express`, `Nest.js`, `Go`.
+- **Databases：** `PostgresQL`、`Prisma` and `Redis`.
+- **DevOps：** `PM2` and `Nginx`.
 
-## 🛠️ Skills
+<a href="https://github.com/chaotic-justice/chaotic-justice" style="max-width:50%;" >
+  <img height="200" align="center" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=chaotic-justice&layout=compact&langs_count=8">
+</a>
 
-### Languages
+## 💡 My Products
 
-![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+- [**Kagi's Gallery Site**](https://kagi.vercel.app/)
 
-### Front-End Development
+<!-- ## 🧑‍💻 Open Source and Tutorials
 
-![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
+- [**Chrome插件全栈开发教程(付费)**](https://xiaobot.net/p/ship-ph-copilot)
+- [**Next.js Practice**](https://github.com/chaotic-justice/nextjs-learn-demos)
+- [**SmartExcel**](https://smartexcel.cc/)
+- [**Landing Page Boilerplate**](https://landingpage.chaotic-justice.com)
+- [**Weekly Boilerplate**](https://weekly.chaotic-justice.com) -->
 
-### Backend development
+## 📫 Contact Me
+- **Email:** [chaolai.1082@gmail.com](mailto:chaolai.1082@gmail.com)
+- **Github:** [Github](https://github.com/chaotic-justice)
+---
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+I'm open to technical consultations regarding Next.js. Feel free to contact me!
 
-### Testing
+You can support me in the following ways, and once I receive your sponsorship, I will add you to my list of contributors on GitHub and my blog。
 
-![mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
-![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<a href="https://www.buymeacoffee.com/chaotic-justice" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 41px !important" ></a>
 
-## 🖥️ Workspace Setup
-
-![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-
-## Gaming
-
-![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
-
-## 📈 Stats
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=chaotic-justice&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=chaotic-justice&show_icons=true&hide_border=true" alt="Chao Lai's GitHub Stats">
-    <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=chaotic-justice.chaotic-justice" alt="visitors">
-</div>
-
-## 🔗 Links
-
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://chaotic-justice.github.io/)
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chao-lai-2900)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/chaotic-justice)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:chaolai.1082@gmail.com)
+<a href='https://ko-fi.com/G2G6TWWMG' target='_blank'><img height='41'  style='height: 41px' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
